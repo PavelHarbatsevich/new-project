@@ -7,6 +7,8 @@
 
 import UIKit
 
+let button = UIButton()
+
 class ViewController: UIViewController {
     let name = "Pavel"
     let age = 20
@@ -17,6 +19,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        
     }
 
 
